@@ -9,6 +9,7 @@ class Mylch1ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("master test");
+        System.out.println("fix test");
     }
 
 }
