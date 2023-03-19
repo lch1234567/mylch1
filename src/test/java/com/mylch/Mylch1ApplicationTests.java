@@ -10,6 +10,7 @@ class Mylch1ApplicationTests {
     void contextLoads() {
         System.out.println("master test");
         System.out.println("fix test");
+        System.out.println("push test");
     }
 
 }
