@@ -8,6 +8,7 @@ class Mylch1ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("master");
     }
 
 }
